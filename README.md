@@ -25,7 +25,7 @@ EzMail is a modern web application that helps users craft professional emails wi
 
 2. Create a Lyzr Agent  
    - Go to https://studio.lyzr.ai and log in  
-   - Under Agents, click Create Agent and name it "EzMail"  
+   - Under Agents, click Create Agent and give it a name.  
    - In the Tools section, connect the Gmail App  
    - Set up the agent to generate email drafts based on inputs
 
