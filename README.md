@@ -16,7 +16,7 @@ EzMail is a modern web application that helps users craft professional emails wi
 - Styling: TailwindCSS
 - Build Tool: Vite
 - Icons: Lucide React
-- API Integration: Connects to Lyzr AI service via environment variables
+- Agent Integration: Connects to Lyzr AI studio Agent
 
 ## Quick Setup
 
@@ -38,13 +38,12 @@ EzMail is a modern web application that helps users craft professional emails wi
      - Agent ID  
      - Session ID
 
-4. Clone the Repo & Add Environment Variables  
+4. Clone the Repo or build a fresh UI (I used bolt) & Add Environment Variables  
    ```bash
    git clone https://github.com/your-username/email-agent.git
    cd email-agent
    ```
    Fill the Env file with Credentials
 
-5. Install and Run
-   NPM I
-   NPM RUN DEV
+5. Install the dependencies (Npm i) and Run (npm run dev) Ensure you have latest node js installed
+   
